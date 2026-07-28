@@ -1,4 +1,4 @@
-# 🧠 Agentic CRM Lead Qualification Agent
+# 🧠 Chain-of-Thought(CoT) Agentic CRM Lead Qualification Agent
 
 > An AI agent for sales representatives that researches lead context, checks CRM history, assigns a priority score, and produces a concise qualification summary.
 

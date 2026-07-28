@@ -240,7 +240,3 @@ Open the notebook, run the cells in order, and replace the sample lead email wit
 - **For Software Engineers:** Demonstrates Python function calling, JSON-based interfaces, deterministic business rules, tool dispatch, conversational state, and testable component boundaries.
 
 ---
-
-## 📜 License
-
-Add the license selected for the repository here.
